@@ -1,6 +1,6 @@
 # primeiro_projeto_flutter
 
-A new Flutter application (My first) for learning more about Flutter and Dart.
+A new Flutter application (My first) to learn more about Flutter and Dart.
 
 
 
